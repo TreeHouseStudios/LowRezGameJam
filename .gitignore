@@ -1,3 +1,8 @@
 #GIMP files
 *.dxf
+Photos/*.dxf
+Photos/Beetle/*.dxf
+Photos/Fly/*.dxf
+Photos/Knight/*.dxf
+Photos/Spider/*.dxf
 *test.png
